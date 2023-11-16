@@ -1,0 +1,28 @@
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.exe
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.deps.json
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.runtimeconfig.json
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.runtimeconfig.dev.json
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.dll
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.pdb
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.csproj.AssemblyReference.cache
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.AssemblyInfoInputs.cache
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.AssemblyInfo.cs
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.csproj.CoreCompileInputs.cache
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.dll
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.pdb
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 9\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.genruntimeconfig.cache
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.exe
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.deps.json
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.runtimeconfig.json
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.runtimeconfig.dev.json
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.dll
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\bin\Debug\netcoreapp3.1\Beta 1.0.pdb
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.csproj.AssemblyReference.cache
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.AssemblyInfoInputs.cache
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.AssemblyInfo.cs
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.csproj.CoreCompileInputs.cache
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.dll
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.pdb
+C:\Users\sicay\Downloads\Beta 1.1\Beta 1.0\obj\Debug\netcoreapp3.1\Beta 1.0.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beta 1.3.1_Selección de Decks", "Beta 1.3.1_Selección de Decks.csproj", "{9CAAB2E1-2F65-4D98-82C3-E83304260E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CAAB2E1-2F65-4D98-82C3-E83304260E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAAB2E1-2F65-4D98-82C3-E83304260E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAAB2E1-2F65-4D98-82C3-E83304260E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAAB2E1-2F65-4D98-82C3-E83304260E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36CD31B7-4E52-4336-867A-FA77EC5239A1}
+	EndGlobalSection
+EndGlobal

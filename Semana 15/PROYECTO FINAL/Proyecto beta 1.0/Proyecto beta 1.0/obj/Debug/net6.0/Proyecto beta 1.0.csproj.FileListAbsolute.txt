@@ -1,0 +1,15 @@
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\bin\Debug\net6.0\Proyecto beta 1.0.exe
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\bin\Debug\net6.0\Proyecto beta 1.0.deps.json
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\bin\Debug\net6.0\Proyecto beta 1.0.runtimeconfig.json
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\bin\Debug\net6.0\Proyecto beta 1.0.dll
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\bin\Debug\net6.0\Proyecto beta 1.0.pdb
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.csproj.AssemblyReference.cache
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.AssemblyInfoInputs.cache
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.AssemblyInfo.cs
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.csproj.CoreCompileInputs.cache
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.dll
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\refint\Proyecto beta 1.0.dll
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.pdb
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\Proyecto beta 1.0.genruntimeconfig.cache
+C:\Users\sicay\source\repos\Proyecto beta 1.0\Proyecto beta 1.0\obj\Debug\net6.0\ref\Proyecto beta 1.0.dll

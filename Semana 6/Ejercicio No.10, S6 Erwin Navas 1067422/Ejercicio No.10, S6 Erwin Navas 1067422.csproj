@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ejercicio_No._10__S6_Erwin_Navas_1067422</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Beta_1._0</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4.0" Link="Beta 1.4.0" />
+  </ItemGroup>
+
+</Project>

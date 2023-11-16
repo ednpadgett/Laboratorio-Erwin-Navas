@@ -1,0 +1,14 @@
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\bin\Debug\netcoreapp3.1\Beta 1.4.exe
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\bin\Debug\netcoreapp3.1\Beta 1.4.deps.json
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\bin\Debug\netcoreapp3.1\Beta 1.4.runtimeconfig.json
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\bin\Debug\netcoreapp3.1\Beta 1.4.runtimeconfig.dev.json
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\bin\Debug\netcoreapp3.1\Beta 1.4.dll
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\bin\Debug\netcoreapp3.1\Beta 1.4.pdb
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.csproj.AssemblyReference.cache
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.AssemblyInfoInputs.cache
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.AssemblyInfo.cs
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.csproj.CoreCompileInputs.cache
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.dll
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.pdb
+C:\Users\rexow\OneDrive\Documentos\.Landivar\CICLO 2\PROGRAMACIÓN LABORATORIO\Proyecto\Semana 15\Beta 1.4\obj\Debug\netcoreapp3.1\Beta 1.4.genruntimeconfig.cache
